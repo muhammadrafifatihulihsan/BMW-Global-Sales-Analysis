@@ -63,4 +63,4 @@ Seluruh pustaka atau *dependencies* yang diperlukan untuk menjalankan kode ini t
 5. Jalankan (*Run All*) sel kode (cells) yang ada untuk menduplikasi alur pembersihan dan membuat perbandingan grafik penjualan!
 
 ---
-> 💡 *Dibuat untuk tugas/praktik pemrosesan dan analisis data menggunakan python. Silakan menjelajah kode dan visualisasinya secara mandiri.*
+> 💡 *Dibuat untuk latihan/praktik pemrosesan dan analisis data menggunakan python. Silakan menjelajah kode dan visualisasinya secara mandiri.*
