@@ -1,0 +1,5 @@
+# DATASET SOURCE : https://www.kaggle.com/datasets/dmahajanbe23/bmw-global-automotive-sales/data
+numpy>=1.24.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+seaborn>=0.12.0
